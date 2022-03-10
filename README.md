@@ -1,7 +1,7 @@
 # ヒントじゃないよ！
-そんなに考えて必要がない！
+そんなに考えなくていい！
 
-## support :)
+## support
 * Monero: `86hzZGktDhNKXxP6pg2BXEavwCozScqjjMAvGXogBKcdeaUQvyT9pnrZ3i7BVRZB2w5WTjvgFayZwdNR8b4Y2tSxLS1LTF4`
 
 ## contact
