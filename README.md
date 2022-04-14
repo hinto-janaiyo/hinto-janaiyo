@@ -1,13 +1,12 @@
 # ヒントじゃないよ
 そんなに考えなくていい
 
-## support
-* Monero: `86hzZGktDhNKXxP6pg2BXEavwCozScqjjMAvGXogBKcdeaUQvyT9pnrZ3i7BVRZB2w5WTjvgFayZwdNR8b4Y2tSxLS1LTF4`
+## monero
+```
+86hzZGktDhNKXxP6pg2BXEavwCozScqjjMAvGXogBKcdeaUQvyT9pnrZ3i7BVRZB2w5WTjvgFayZwdNR8b4Y2tSxLS1LTF4
+```
 
-## contact
-* hinto.janaiyo@protonmail.com
-
-## gpg pub key
+## gpg
 <details>
 <summary>click to reveal</summary>
   
