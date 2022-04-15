@@ -6,7 +6,7 @@
 86hzZGktDhNKXxP6pg2BXEavwCozScqjjMAvGXogBKcdeaUQvyT9pnrZ3i7BVRZB2w5WTjvgFayZwdNR8b4Y2tSxLS1LTF4
 ```
 
-## gpg
+## pgp
 <details>
 <summary>click to reveal</summary>
   
